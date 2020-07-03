@@ -1,0 +1,2 @@
+md5 hash for latest calculator.py is
+38C77E6F7B0ED193FB52AFFEEB7EFE68
